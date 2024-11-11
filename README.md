@@ -1,5 +1,6 @@
-# ShoppingList Prototype
-This is our prototype app
+# MMS Prototype ShoppingList
+
+Julien Chopin, Christian Gafner
 
 
 ## Prerequisites
