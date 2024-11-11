@@ -15,7 +15,7 @@ This is our prototype app
    npm run web
 
 
-## Adding Bigger test Data
+## Adding larger testing Data
 
 1. Open Developer Console (F12)        (Also activates phone emulation (i think))
 2. Switch Tab to Application & find LocalStorage data
