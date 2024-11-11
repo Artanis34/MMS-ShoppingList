@@ -12,9 +12,11 @@ Julien Chopin, Christian Gafner
 ## Getting Started
 
 1. **Test the project**:
+   ```
    npm install
+   
    npm run web
-
+   ```
 
 ## Adding larger testing Data
 
