@@ -1,0 +1,248 @@
+[
+    {
+        "id": 0,
+        "name": "Weekly Groceries",
+        "items": [
+            {
+                "id": 1731346067925,
+                "name": "Carrots",
+                "completed": false,
+                "group": 1
+            },
+            {
+                "id": 1731346072482,
+                "name": "Chicken Breast",
+                "completed": false,
+                "group": 2
+            },
+            {
+                "id": 1731346074196,
+                "name": "Milk",
+                "completed": false,
+                "group": 3
+            },
+            {
+                "id": 1731345607106,
+                "name": "Bread",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731345607107,
+                "name": "Lettuce",
+                "completed": false,
+                "group": 1
+            },
+            {
+                "id": 1731345607108,
+                "name": "Ground Beef",
+                "completed": false,
+                "group": 2
+            },
+            {
+                "id": 1731345607109,
+                "name": "Cheese",
+                "completed": false,
+                "group": 3
+            },
+            {
+                "id": 1731345607110,
+                "name": "Rice",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731345607111,
+                "name": "Tomatoes",
+                "completed": false,
+                "group": 1
+            },
+            {
+                "id": 1731345607112,
+                "name": "Pork Chops",
+                "completed": false,
+                "group": 2
+            },
+            {
+                "id": 1731345607113,
+                "name": "Yogurt",
+                "completed": false,
+                "group": 3
+            },
+            {
+                "id": 1731345607114,
+                "name": "Pasta",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731345607115,
+                "name": "Cucumbers",
+                "completed": false,
+                "group": 1
+            },
+            {
+                "id": 1731345607116,
+                "name": "Bacon",
+                "completed": false,
+                "group": 2
+            },
+            {
+                "id": 1731345607117,
+                "name": "Butter",
+                "completed": false,
+                "group": 3
+            },
+            {
+                "id": 1731345607118,
+                "name": "Oats",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731345607119,
+                "name": "Bell Peppers",
+                "completed": false,
+                "group": 1
+            },
+            {
+                "id": 1731345607120,
+                "name": "Sausages",
+                "completed": false,
+                "group": 2
+            },
+            {
+                "id": 1731345607121,
+                "name": "Cream",
+                "completed": false,
+                "group": 3
+            },
+            {
+                "id": 1731345607122,
+                "name": "Quinoa",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731345607123,
+                "name": "Spinach",
+                "completed": false,
+                "group": 1
+            },
+            {
+                "id": 1731345607124,
+                "name": "Ham",
+                "completed": false,
+                "group": 2
+            },
+            {
+                "id": 1731345607125,
+                "name": "Cottage Cheese",
+                "completed": false,
+                "group": 3
+            },
+            {
+                "id": 1731345607126,
+                "name": "Barley",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731345607127,
+                "name": "Broccoli",
+                "completed": false,
+                "group": 1
+            },
+            {
+                "id": 1731345607128,
+                "name": "Lamb Chops",
+                "completed": false,
+                "group": 2
+            },
+            {
+                "id": 1731345607129,
+                "name": "Sour Cream",
+                "completed": false,
+                "group": 3
+            },
+            {
+                "id": 1731345607130,
+                "name": "Cornmeal",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731345607131,
+                "name": "Zucchini",
+                "completed": false,
+                "group": 1
+            },
+            {
+                "id": 1731345607132,
+                "name": "Turkey Breast",
+                "completed": false,
+                "group": 2
+            }
+        ]
+    },
+    {
+        "id": 1731345069825,
+        "name": "Party Supplies",
+        "items": [
+            {
+                "id": 1731346067926,
+                "name": "Chips",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731346072483,
+                "name": "Soda",
+                "completed": false,
+                "group": 3
+            },
+            {
+                "id": 1731346074197,
+                "name": "Plastic Cups",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731345607107,
+                "name": "Napkins",
+                "completed": false,
+                "group": 4
+            }
+        ]
+    },
+    {
+        "id": 1731345069826,
+        "name": "Office Supplies",
+        "items": [
+            {
+                "id": 1731346067927,
+                "name": "Pens",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731346072484,
+                "name": "Notebooks",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731346074198,
+                "name": "Stapler",
+                "completed": false,
+                "group": 4
+            },
+            {
+                "id": 1731345607108,
+                "name": "Paper Clips",
+                "completed": false,
+                "group": 4
+            }
+        ]
+    }
+]
